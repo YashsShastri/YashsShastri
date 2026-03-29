@@ -1,27 +1,19 @@
 <h1>Hi 👋, I'm Yash Shastri</h1>
 
-<h3>A versatile developer</h3>
-
-- 👨‍💻 All of my projects are available at https://github.com/YashsShastri
-
----
-
-### Connect with me:
 <p>
-<a href="https://github.com/YashsShastri">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+AI + IoT Developer | Future ISRO Scientist
+</p>
 
-<a href="https://instagram.com/YOUR_ID">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+<p>
+👨‍💻 <a href="https://github.com/YashsShastri">Projects</a> • 
+📧 yashshatri05@gmail.com • 
+<a href="https://instagram.com/YOUR_ID">Instagram</a>
 </p>
 
 ---
 
-### Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cpp,css,firebase,git,html,java,js,kotlin,linux,mysql,nodejs,php,python,react,tailwind,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,nodejs,mongodb,tensorflow,arduino,linux,aws,mysql" />
 </p>
 
 ---
