@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cpp,css,firebase,git,html,java,js,kotlin,linux,mysql,nodejs,php,python,react,tailwind,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,nodejs,mongodb,tensorflow,arduino,linux,aws,mysql" />
 </p>
 
 ---
